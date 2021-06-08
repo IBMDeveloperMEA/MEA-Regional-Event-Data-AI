@@ -22,3 +22,9 @@ Missed the MEA Regional Event? No worries, we have got you covered! Check out th
 |Early forest fire detection via Machine Learning|Graciana Puentes|To be provided after the conference|
 |Branch Specific AI Based Target Management|Yılmaz Meral, Serdar Öztürk| To be provided after the conference|
 
+## You can also check out the regional event on different platforms
+- Youtube - https://www.youtube.com/channel/UCD_8JysJo2yvU6vsouMgajA
+- Twitch - https://www.twitch.tv/mridulrb
+- Periscope - https://www.periscope.tv/mridulrb
+- Twitter - https://twitter.com/mridulrb
+- LinkedIn - https://www.linkedin.com/events/mearegionalevent-datascience-ai6805124477400190976/
