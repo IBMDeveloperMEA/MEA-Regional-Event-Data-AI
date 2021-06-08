@@ -16,9 +16,9 @@ Missed the MEA Regional Event? No worries! we have got you covered! Check out th
 
 |Session Name|Speakers|Session Resources|
 |----|----|----|
-|Predicting Fraud using Automated Machine Learning|Khalil Faraj, Sbusiso Mkhombe|[Click here to access this sessions resources](https://github.com/IBMDeveloperMEA/Fraud-Loan-Predictions-using-Automated-Machine-Learning)|
+|Predicting Fraud using Automated Machine Learning|Khalil Faraj, Sbusiso Mkhombe|[Click here to access session resources](https://github.com/IBMDeveloperMEA/Fraud-Loan-Predictions-using-Automated-Machine-Learning)|
 |Speech Synthesis by using Advanced Machine Learning Techniques for Easy Readability of Dyslexic Children|Geeta Atkar|To be provided after the conference|
-|Building a recurrent neural network using TensorFlow Keras|Mridul Bhandari, Anam Mahmood, Emeka Boris Ama (OSCA)|[Click here to access this sessions resources](https://github.com/IBMDeveloperMEA/Recurrent-Neural-Networks-using-TensorFlow-Keras)|
+|Building a recurrent neural network using TensorFlow Keras|Mridul Bhandari, Anam Mahmood, Emeka Boris Ama (OSCA)|[Click here to access session resources](https://github.com/IBMDeveloperMEA/Recurrent-Neural-Networks-using-TensorFlow-Keras)|
 |Early forest fire detection via Machine Learning|Graciana Puentes|To be provided after the conference|
 |Branch Specific AI Based Target Management|Yılmaz Meral, Serdar Öztürk| To be provided after the conference|
 
