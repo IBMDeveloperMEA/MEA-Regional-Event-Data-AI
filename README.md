@@ -16,9 +16,9 @@ Missed the MEA Regional Event? No worries! we have got you covered! Check out th
 
 |Session Name|Speakers|Session Resources|
 |----|----|----|
-|Predicting Fraud using Automated Machine Learning|Khalil Faraj, Sbusiso Mkhombe|[Click here to access session resources](https://github.com/IBMDeveloperMEA/Fraud-Loan-Predictions-using-Automated-Machine-Learning)|
-|Speech Synthesis by using Advanced Machine Learning Techniques for Easy Readability of Dyslexic Children|Geeta Atkar|To be provided after the conference|
-|Building a recurrent neural network using TensorFlow Keras|Mridul Bhandari, Anam Mahmood, Emeka Boris Ama (OSCA)|[Click here to access session resources](https://github.com/IBMDeveloperMEA/Recurrent-Neural-Networks-using-TensorFlow-Keras)|
-|Early forest fire detection via Machine Learning|Graciana Puentes|To be provided after the conference|
-|Branch Specific AI Based Target Management|Yılmaz Meral, Serdar Öztürk| To be provided after the conference|
+|Predicting Fraud using Automated Machine Learning|[Khalil Faraj](https://www.linkedin.com/in/khalilfaraj/), [Sbusiso Mkhombe](https://www.linkedin.com/in/sbusisomkhombe/)|[Click here to access session resources](https://github.com/IBMDeveloperMEA/Fraud-Loan-Predictions-using-Automated-Machine-Learning)|
+|Speech Synthesis by using Advanced Machine Learning Techniques for Easy Readability of Dyslexic Children|[Geeta Atkar](https://www.linkedin.com/in/geeta-atkar-38ba57146/)|To be provided after the conference|
+|Building a recurrent neural network using TensorFlow Keras|[Mridul Bhandari](https://www.linkedin.com/in/mridul-bhandari/), [Anam Mahmood](https://www.linkedin.com/in/anam-mahmood-sheikh/), [Emeka Boris Ama (OSCA)](https://www.linkedin.com/in/emekaboris/)|[Click here to access session resources](https://github.com/IBMDeveloperMEA/Recurrent-Neural-Networks-using-TensorFlow-Keras)|
+|Early forest fire detection via Machine Learning|[Graciana Puentes](https://www.linkedin.com/in/graciana-puentes-phd-6070041b/)|To be provided after the conference|
+|Branch Specific AI Based Target Management|[Yılmaz Meral](https://www.linkedin.com/in/yilmazmeral/), [Serdar Öztürk](https://www.linkedin.com/in/zeynel-serdar-öztürk-141063100/)| To be provided after the conference|
 
