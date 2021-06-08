@@ -1,12 +1,12 @@
 # MEA Regional Event - Data Science & AI for Everyone
 
-Hello there! hope you are enjoying the MEA Regional Event - Data Science & AI for Everyone and got to gain insights about various topics ranging from machine learning, deep learning, ethics in AI, industry use cases of AI and also about how you can set your career path in the field of data science.
+Hello there! We hope you are enjoying the MEA Regional Event - Data Science & AI for Everyone, and gained insights about various topics ranging from machine learning, deep learning, ethics in AI, industry use cases of AI and also about how you can set your career path in the field of data science.
 
-We would also like to invite you to the main conference for the Digital Developer Conference: Data & AI, where there are many on-demand sessions which you can check out and also a course where you can earn a badge.
+We would also like to invite you to the main conference for the Digital Developer Conference: Data & AI, where there are many on-demand sessions which you can check out and also a course where you can earn a badge certifying your skills!
 
 #### Check out the Digital Developer Conference: Data & AI: https://ibm.biz/devcon-ai
 
-Missed the MEA Regional Event? No worries! we have got you covered! Check out the event resources below
+Missed the MEA Regional Event? No worries, we have got you covered! Check out the event resources below!
 
 ## Regional Event Resources
 
