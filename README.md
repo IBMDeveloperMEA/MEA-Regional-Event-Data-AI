@@ -1,12 +1,12 @@
 # MEA Regional Event - Data Science & AI for Everyone
 
-Hello there! hope you are enjoying the MEA Regional Event - Data Science & AI for Everyone and got to gain insights about various topics ranging from machine learning, deep learning, ethics in AI, industry use cases of AI and also about how you can set your career path in the field of data science.
+Hello there! We hope you are enjoying the MEA Regional Event - Data Science & AI for Everyone, and gained insights about various topics ranging from machine learning, deep learning, ethics in AI, industry use cases of AI and also about how you can set your career path in the field of data science.
 
-We would also like to invite you to the main conference for the Digital Developer Conference: Data & AI, where there are many on-demand sessions which you can check out and also a course where you can earn a badge.
+We would also like to invite you to the main conference for the Digital Developer Conference: Data & AI, where there are many on-demand sessions which you can check out and also a course where you can earn a badge certifying your skills!
 
 #### Check out the Digital Developer Conference: Data & AI: https://ibm.biz/devcon-ai
 
-Missed the MEA Regional Event? No worries! we have got you covered! Check out the event resources below
+Missed the MEA Regional Event? No worries, we have got you covered! Check out the event resources below!
 
 ## Regional Event Resources
 
@@ -22,3 +22,9 @@ Missed the MEA Regional Event? No worries! we have got you covered! Check out th
 |Early forest fire detection via Machine Learning|[Graciana Puentes](https://www.linkedin.com/in/graciana-puentes-phd-6070041b/)|To be provided after the conference|
 |Branch Specific AI Based Target Management|[Yılmaz Meral](https://www.linkedin.com/in/yilmazmeral/), [Serdar Öztürk](https://www.linkedin.com/in/zeynel-serdar-öztürk-141063100/)| To be provided after the conference|
 
+## You can also check out the regional event on different platforms
+- Youtube - https://www.youtube.com/channel/UCD_8JysJo2yvU6vsouMgajA
+- Twitch - https://www.twitch.tv/mridulrb
+- Periscope - https://www.periscope.tv/mridulrb
+- Twitter - https://twitter.com/mridulrb
+- LinkedIn - https://www.linkedin.com/events/mearegionalevent-datascience-ai6805124477400190976/
