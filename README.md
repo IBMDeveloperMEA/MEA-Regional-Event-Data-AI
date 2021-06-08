@@ -17,7 +17,7 @@ Missed the MEA Regional Event? No worries, we have got you covered! Check out th
 |Session Name|Speakers|Session Resources|
 |----|----|----|
 |Predicting Fraud using Automated Machine Learning|[Khalil Faraj](https://www.linkedin.com/in/khalilfaraj/), [Sbusiso Mkhombe](https://www.linkedin.com/in/sbusisomkhombe/)|[Click here to access session resources](https://github.com/IBMDeveloperMEA/Fraud-Loan-Predictions-using-Automated-Machine-Learning)|
-|Speech Synthesis by using Advanced Machine Learning Techniques for Easy Readability of Dyslexic Children|[Geeta Atkar](https://www.linkedin.com/in/geeta-atkar-38ba57146/)|To be provided after the conference|
+|Speech Synthesis by using Advanced Machine Learning Techniques for Easy Readability of Dyslexic Children|[Geeta Atkar](https://www.linkedin.com/in/geeta-atkar-38ba57146/)|[Click here to access session resources](https://github.com/IBMDeveloperMEA/MEA-Regional-Event-Data-AI/blob/main/slides/Geeta_SpeechSynthesis.pdf)|
 |Building a recurrent neural network using TensorFlow Keras|[Mridul Bhandari](https://www.linkedin.com/in/mridul-bhandari/), [Anam Mahmood](https://www.linkedin.com/in/anam-mahmood-sheikh/), [Emeka Boris Ama (OSCA)](https://www.linkedin.com/in/emekaboris/)|[Click here to access session resources](https://github.com/IBMDeveloperMEA/Recurrent-Neural-Networks-using-TensorFlow-Keras)|
 |Early forest fire detection via Machine Learning|[Graciana Puentes](https://www.linkedin.com/in/graciana-puentes-phd-6070041b/)|To be provided after the conference|
 |Branch Specific AI Based Target Management|[Yılmaz Meral](https://www.linkedin.com/in/yilmazmeral/), [Serdar Öztürk](https://www.linkedin.com/in/zeynel-serdar-öztürk-141063100/)| To be provided after the conference|
@@ -26,10 +26,10 @@ Missed the MEA Regional Event? No worries, we have got you covered! Check out th
 
 |Session Name|Speakers|Session Resources|
 |----|----|----|
-|Your Career in Data Science & AI|[Qamar un Nisa](https://www.linkedin.com/in/qamarnisa/)|[Networking session resource](https://github.com/IBMDeveloperMEA/MEA-Regional-Event-Data-AI/blob/main/slides/Data%20Science%20Career.pdf)|
-|Ethics in AI - Build trusted and explainable AI models|[Naiyarah Hussain](https://www.linkedin.com/in/naiyarah/)|[Networking session resource](https://github.com/IBMDeveloperMEA/MEA-Regional-Event-Data-AI/blob/main/slides/Ethics%20in%20AI.pdf)|
-|Deep Learning|[Anam Mahmood](https://www.linkedin.com/in/anam-mahmood-sheikh/)|[Networking session resource](https://github.com/IBMDeveloperMEA/MEA-Regional-Event-Data-AI/blob/main/slides/Deep%20Learning%20Networking.pdf)|
-|Industry Focused Practical uses of AI/ML|[Fawaz Siddiqi](https://www.linkedin.com/in/fawazsiddiqi/)|[Networking session resource](https://github.com/IBMDeveloperMEA/MEA-Regional-Event-Data-AI/blob/main/slides/Inudstry%20Application%20-%20AI.pdf)|
+|Your Career in Data Science & AI|[Qamar un Nisa](https://www.linkedin.com/in/qamarnisa/)|[Click here to access networking session resource](https://github.com/IBMDeveloperMEA/MEA-Regional-Event-Data-AI/blob/main/slides/Data%20Science%20Career.pdf)|
+|Ethics in AI - Build trusted and explainable AI models|[Naiyarah Hussain](https://www.linkedin.com/in/naiyarah/)|[Click here to access networking session resource](https://github.com/IBMDeveloperMEA/MEA-Regional-Event-Data-AI/blob/main/slides/Ethics%20in%20AI.pdf)|
+|Deep Learning|[Anam Mahmood](https://www.linkedin.com/in/anam-mahmood-sheikh/)|[Click here to access networking session resource](https://github.com/IBMDeveloperMEA/MEA-Regional-Event-Data-AI/blob/main/slides/Deep%20Learning%20Networking.pdf)|
+|Industry Focused Practical uses of AI/ML|[Fawaz Siddiqi](https://www.linkedin.com/in/fawazsiddiqi/)|[Click here to access networking session resource](https://github.com/IBMDeveloperMEA/MEA-Regional-Event-Data-AI/blob/main/slides/Inudstry%20Application%20-%20AI.pdf)|
 
 ## You can also check out the regional event on different platforms
 - Youtube - https://www.youtube.com/channel/UCD_8JysJo2yvU6vsouMgajA
