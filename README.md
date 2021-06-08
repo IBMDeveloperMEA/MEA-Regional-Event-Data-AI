@@ -32,8 +32,9 @@ Missed the MEA Regional Event? No worries, we have got you covered! Check out th
 |Industry Focused Practical uses of AI/ML|[Fawaz Siddiqi](https://www.linkedin.com/in/fawazsiddiqi/)|[Click here to access networking session resource](https://github.com/IBMDeveloperMEA/MEA-Regional-Event-Data-AI/blob/main/slides/Inudstry%20Application%20-%20AI.pdf)|
 
 ## You can also check out the regional event on different platforms
-- Youtube - https://www.youtube.com/channel/UCD_8JysJo2yvU6vsouMgajA
-- Twitch - https://www.twitch.tv/mridulrb
-- Periscope - https://www.periscope.tv/mridulrb
-- Twitter - https://twitter.com/mridulrb
-- LinkedIn - https://www.linkedin.com/events/mearegionalevent-datascience-ai6805124477400190976/
+- YouTube - https://youtu.be/pTH0zCHVZak
+- LinkedIn - https://www.linkedin.com/posts/activity-6808030006426529792-zpZp
+- Twitter - https://twitter.com/mridulrb/status/1402264264602177545?s=20
+- Twitch - https://www.twitch.tv/videos/1049724787
+- Periscope - https://www.periscope.tv/mridulrb/1YqKDeEeoLzGV
+- Crowdcast - https://www.crowdcast.io/e/ddc-mea2021
